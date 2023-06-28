@@ -1,0 +1,5 @@
+location      = "australiasoutheast"
+environment   = "dev"
+channel       = "poc"
+project_short = "spn"
+solution      = "qs"
